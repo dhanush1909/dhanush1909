@@ -1,4 +1,7 @@
-### Hi there 👋
+<p align="center">
+  <img src='https://github.com/dhanush1909/dhanush1909/blob/main/images/coder.gif' height=250>
+  <h3 align="center">Hi there, I'm Dhanush 👋</h3>
+</p>
 
 <!--
 **dhanush1909/dhanush1909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
