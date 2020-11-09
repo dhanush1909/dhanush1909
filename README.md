@@ -10,5 +10,5 @@
 
 - 🔭 I got my Hands dirty on DSA, Java, Spring boot, React.
 - 🌱 I’m currently learning python, 
-- 📫 How to reach me: [my linkedin](https://www.linkedin.com/in/dhanush-kumar-b6bb551a9/)
+- 📫 How to reach me: [my linkedin](https://www.linkedin.com/in/dhanush-kumar/)
 - ⚡ Fun fact: enthusiastic hard worker
